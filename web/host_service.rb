@@ -31,4 +31,4 @@ puts s2
 puts s1.show_settings
 puts s2.show_settings
 
-Config.new
+Config.new.send
